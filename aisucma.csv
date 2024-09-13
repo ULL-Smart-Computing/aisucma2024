@@ -1,5 +1,8 @@
-date,start_time,end_time,paper_title,description,speaker,author_list
-2024-10-20,9:10,9:40,Case study in supplier relationship management: Assisting buyers with sustainability insights using generative AI technology,
-2024-10-20,9:40,10:10,Reinforcement Learning for Efficient Returns Management,
-2024-10-20,11:00,11:30,Predicting demand and seasonal patterns of waste production to improve waste collection planning,
-2024-10-20,11:30,12:00,Optimizing port operations with machine learning-driven ETA predictions,
+10/20/2024,09:00 AM,00:30 PM,"AISUCMA 2024: Artificial intelligence in supply chain management","The workshop aims to provide participants with a comprehensive understanding of how AI technologies are revolutionizing the field of supply chain management through a combination of theoretical insights and practical applications (https://ull-smart-computing.github.io/aisucma2024)."
+10/20/2024,09:00 AM,09:10 AM,"Introduction",,Christopher Expósito-Izquierdo,
+10/20/2024,09:10 AM,09:40 AM,"Case study in supplier relationship management: Assisting buyers with sustainability insights using generative AI technology",,Sophia Katrenko,Sophia Katrenko
+10/20/2024,09:40 AM,10:10 AM,"Reinforcement Learning for Efficient Returns Management",,Pascan Linden,Pascan Linden
+10/20/2024,10:10 AM,11:00 AM,"Coffee break",,,
+10/20/2024,11:00 AM,11:30 AM,"Predicting demand and seasonal patterns of waste production to improve waste collection planning",,Alejandro Corbea-Pérez,Alejandro Corbea-Pérez
+10/20/2024,11:30 AM,00:00 PM,"A Versatile Multi-Agent Reinforcement Learning Benchmark for Inventory Management",,Xianliang Yang,Xianliang Yang
+10/20/2024,00:00 PM,00:30 PM,"Optimizing port operations with machine learning-driven ETA predictions",,Israel López-Plata,Airam Expósito-Márquez;Israel López-Plata;Christopher Expósito-Izquierdo
